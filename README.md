@@ -3,8 +3,6 @@
 📍 Feira de Santana, Bahia  
 📅 24/05/2005 
 
----
-
 ## Sobre mim
 
 >📚 Sou estudante do 4º semestre de **Análise e Desenvolvimento de Sistemas** na **Faculdade UNIFAN**
@@ -13,7 +11,6 @@
 
 >🚀 Sempre buscando aprimorar minhas habilidades por meio de cursos e projetos. Sou apaixonado por tecnologia e entusiasta do aprendizado contínuo. 
 
----
 
 ## 🛠️ Tecnologias e Ferramentas  
 - **Back-end**: Django, Python  
@@ -21,7 +18,6 @@
 - **Banco de Dados**: Mysql  
 - **Ferramentas**: Git, GitHub, Linux
 
----
 ## 🍀 Objetivos  
 - Aprofundar meus conhecimentos em **desenvolvimento web** 
 - Tornar um desenvolvedor **full-stack**
