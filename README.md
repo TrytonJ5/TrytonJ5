@@ -22,11 +22,11 @@
 - **Ferramentas**: Git, GitHub, Linux
 
 ---
-## 🌱 O que estou aprendendo  
-- **Desenvolvimento back-end** (Django, Python) 
-- **Desenvolvimento front-end** (HTML, CSS, JavaScript, Angular) 
-- **Boas práticas de desenvolvimento de software e metodologias ágeis**  
-- **Sistema Operaciona** linux
+## 🍀 Objetivos  
+- Aprofundar meus conhecimentos em **desenvolvimento web** 
+- Tornar um desenvolvedor **full-stack**
+- Aprender mais sobre **metodologias ágeis** 
+- Utilizar **linux** como sistema principal
 
 <!--
 ## 📫 Como me encontrar  
